@@ -81,4 +81,4 @@ password-manager/
 
 ---
 
-#LIVE DEMO: https://arooj563.github.io/Password-manager--Secure-Your-Digital-
+#LIVE DEMO:https://arooj563.github.io/Password-manager--Secure-Your-Digital-Life/
